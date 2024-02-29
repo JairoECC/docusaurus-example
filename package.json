@@ -2,7 +2,7 @@
   "name": "docusaurus-example",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://jairoecc.github.io/react-example",
+  "homepage": "https://jairoecc.github.io/docusaurus-example",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
